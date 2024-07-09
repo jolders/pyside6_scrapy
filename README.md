@@ -18,3 +18,9 @@ This is a starting point for how to use scrapy to scrape a website and then disp
   <img src="https://github.com/jolders/pyside6_scrapy/blob/main/pyside6_scrapy.png" alt="screenshot" />
 </div>
 
+### Specifics
+
+* Incorporates the spider settings.
+* Additional pipeline to an a xlsx spreadsheet. 
+* Includes the items loader for 'items' processing.
+
