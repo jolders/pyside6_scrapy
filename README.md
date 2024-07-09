@@ -7,8 +7,9 @@ This is a starting point for how to use scrapy to scrape a website and then disp
 ### Project aims
 
 * Develop a 'workflow' starting point for how to intergrate Python with UI.
-* Advance further in my abilities to use Python.
+* Advance further in my abilities to use Python and PySide6.
 * Become more comfortable in working with QT Creator/Designer as the UI development.
+* Further develop a workflow using Scrapy and how to coombine this in a GUI
 
 <!-- Screenshots -->
 ### :camera: Screenshots
